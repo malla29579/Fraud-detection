@@ -1,4 +1,3 @@
-# fraud-detection-autoencoder
 # Fraud Detection Using AutoEncoder
 
 *This repository contains a machine learning model for fraud detection using AutoEncoder, implemented with the PyOD library. I use this model to identify fraudulent transactions from an anonymized credit card transactions dataset.*
